@@ -1,7 +1,7 @@
 import { Avatar, AvatarImage } from "@radix-ui/react-avatar"
 import { Card, CardContent } from "./ui/card"
-import { Badge } from "lucide-react"
 import React from "react"
+import { Badge } from "./ui/badge"
 
 // TODO: receber agendamentos como prop
 const BookingItem = () => {
